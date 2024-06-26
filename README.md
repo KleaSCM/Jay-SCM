@@ -1,4 +1,4 @@
-![snake svg](https://github.com/Jay-SCM/blob/main/dist/github-snake.svg)
+![snake svg](https://github.com/Jay-SCM/Jay-SCM/blob/main/dist/github-snake.svg)
 
 ## Languages and Tools
 
@@ -30,4 +30,3 @@
 ![Numpy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-
