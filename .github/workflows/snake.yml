@@ -9,35 +9,39 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Create Dist Directory
-        run: mkdir -p dist
-
-      - uses: actions/checkout@v2
-        with:
-          fetch-depth: 0  # Ensures we fetch all history for all branches and tags
-          path: dist
+      - name: Checkout code
+        uses: actions/checkout@v3  # Updated to the latest version that supports Node.js 20
 
       - name: Set up Python
-        uses: actions/setup-python@v2
+        uses: actions/setup-python@v4  # Assuming v4 is current; adjust as necessary
         with:
           python-version: '3.x'
 
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
+          # Assuming matplotlib is required, otherwise remove or replace with actual dependencies
           pip install matplotlib
 
       - name: Generate Snake Game
         uses: Platane/snk@master
-        id: snake-gif
         with:
           github_user_name: ${{ github.repository_owner }}
           svg_out_path: dist/github-snake.svg
 
-      - name: Commit and push if changed
+      - name: Create Dist Directory
+        run: mkdir -p dist
+
+      - name: Upload SVG to Artifacts
+        uses: actions/upload-artifact@v4  # Updated to the latest version
+        with:
+          name: snake-game
+          path: dist/github-snake.svg
+
+      - name: Commit and push if changes
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
+          git pull --rebase origin main
           git add dist/github-snake.svg
-          git commit -m "Update GitHub snake animation" -a || echo "No changes to commit"
-          git push
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Update GitHub snake animation" && git push)
