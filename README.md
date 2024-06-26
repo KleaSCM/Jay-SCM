@@ -1,3 +1,5 @@
+![snake svg](https://github.com/Jay-SCM/Jay-SCM/blob/output/github-snake.svg)
+
 ## Languages and Tools
 
 ### Programming Languages:
