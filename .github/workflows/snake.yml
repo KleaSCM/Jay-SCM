@@ -9,9 +9,13 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
+      - name: Create Dist Directory
+        run: mkdir -p dist
+
       - uses: actions/checkout@v2
         with:
           fetch-depth: 0  # Ensures we fetch all history for all branches and tags
+          path: dist
 
       - name: Set up Python
         uses: actions/setup-python@v2
@@ -30,9 +34,6 @@ jobs:
           github_user_name: ${{ github.repository_owner }}
           svg_out_path: dist/github-snake.svg
 
-      - name: Create Dist Directory
-        run: mkdir -p dist
-
       - name: Commit and push if changed
         run: |
           git config --local user.email "action@github.com"
@@ -40,4 +41,3 @@ jobs:
           git add dist/github-snake.svg
           git commit -m "Update GitHub snake animation" -a || echo "No changes to commit"
           git push
-          
