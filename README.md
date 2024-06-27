@@ -1,4 +1,4 @@
-![snake svg](https://github.com/Jay-SCM/Jay-SCM/blob/main/dist/github-snake.svg)
+
 
 ## Languages and Tools
 
