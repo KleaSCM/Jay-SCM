@@ -4,8 +4,6 @@
 
 Versatile Software Engineer with a strong foundation in both frontend and backend technologies, I am dedicated to building robust and user-friendly applications. My expertise spans web and desktop development, encryption and decryption processes, real-time messaging, AI integrations, and game addon development, allowing me to create seamless user experiences and efficient backend systems.
 
-![GitHub Snake Animation](https://github.com/Jay-SCM/Jay-SCM/blob/output/github-contribution-grid-snake.svg)
-
 ## Key Skills and Technologies:
 
 ### Frontend Development:
@@ -68,8 +66,6 @@ Versatile Software Engineer with a strong foundation in both frontend and backen
 ## Notable Projects:
 
 ### EasyWorkApp:
-[![EasyWorkApp](https://img.shields.io/badge/-EasyWorkApp-05122A?style=flat&logo=appveyor)](https://kscmportfolio.vercel.app/projects/easyworkapp)
-![EasyWorkApp](https://github.com/Jay-SCM/EasyWorkApp/raw/main/public/images/projects.jpg)
 A comprehensive application showcasing user-friendly interfaces and complex functionalities.
 
 ### Weather App:
