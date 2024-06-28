@@ -89,10 +89,12 @@ Python-based assistant with API integrations for real-time data and controls.
 ## BlueFrog Addon:
 Advanced World of Warcraft addon with customizable UI options and combat log handling
 
+I am passionate about leveraging my technical skills to deliver high-quality solutions. My dedication to continuous learning ensures that I stay updated with the latest technologies to adapt to new challenges and drive impactful results.
+
 ## Let's Connect:
 
 I am eager to explore new opportunities and connect with professionals in the tech community. Explore my projects and contributions:
 
-My CurseForge Projects
-My GitHub
-My Software Portfolio
+- My CurseForge Projects
+- My GitHub
+- My Software Portfolio
