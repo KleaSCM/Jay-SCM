@@ -1,8 +1,5 @@
 Versatile Software Engineer with a strong foundation in both frontend and backend technologies, I am dedicated to building robust and user-friendly applications. My expertise spans web and desktop development, encryption and decryption processes, real-time messaging, AI integrations, and game addon development, allowing me to create seamless user experiences and efficient backend systems.
 
-
-## Languages and Tools
-
 ### Programming Languages:
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
@@ -32,33 +29,31 @@ Versatile Software Engineer with a strong foundation in both frontend and backen
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-Key Skills and Technologies:
-
+## Key Skills and Technologies:
 Frontend Development:
 
 Proficient in JavaScript, TypeScript, React, Vue, Angular, and Next.js.
 Experienced with SCSS and Bootstrap for styling and responsive design.
 Utilize Material-UI for intuitive interfaces and Framer Motion for engaging animations.
 
-Backend Development:
+## Backend Development:
 
 Skilled in Node.js and .NET, particularly using Express.js.
 Adept at managing databases with MySQL, MongoDB, and Firebase.
 
-API Integration:
+## API Integration:
 
 Extensive experience with RESTful and GraphQL APIs.
 Utilize Axios and Socket.IO for real-time data handling.
 Build Tools:
 
 Experienced with Vite for fast and efficient builds.
-
 Python Development:
 
 Proficient in Python for scripting, automation, and AI integrations.
 Developed a comprehensive desktop assistant using Python and Tkinter, integrating various APIs for real-time data and system controls.
 
-Desktop Development:
+## Desktop Development:
 
 Develop desktop applications using .NET WinForms and C#.
 Integrate video streaming capabilities with CefSharp and WebView2.
@@ -69,31 +64,35 @@ Real-Time Messaging:
 
 Implement real-time messaging solutions with Socket.IO on both client-side (React) and server-side (Express.js).
 
-AI Integration:
+## AI Integration:
 
 Experience with OpenAI's GPT-3 for natural language processing and generating dynamic responses.
 Game Addon Development:
 
 Developed addons for World of Warcraft, including customizable user interfaces and handling combat log events.
 
-Notable Projects:
+# Notable Projects:
 
-EasyWorkApp: A comprehensive application showcasing user-friendly interfaces and complex functionalities.
-Weather App: Fetches real-time weather data and integrates with Unsplash for relevant imagery.
-Encryption Tool: Securely encrypts and decrypts files using Fernet.
+## EasyWorkApp:
+A comprehensive application showcasing user-friendly interfaces and complex functionalities.
+
+## Weather App:
+Fetches real-time weather data and integrates with Unsplash for relevant imagery.
+
+## Encryption Tool:
+Securely encrypts and decrypts files using Fernet.
 Real-Time Chat Application: Utilizes Socket.IO for seamless user communication.
-Desktop Assistant: Python-based assistant with API integrations for real-time data and controls.
-BlueFrog Addon: Advanced World of Warcraft addon with customizable UI options and combat log handling
 
-BlueFrog Addon: Advanced World of Warcraft addon with customizable UI options and combat log handling.
-I am passionate about leveraging my technical skills to deliver high-quality solutions. My dedication to continuous learning ensures that I stay updated with the latest technologies to adapt to new challenges and drive impactful results.
+## Desktop Assistant:
+Python-based assistant with API integrations for real-time data and controls.
 
-Let's Connect:
+## BlueFrog Addon:
+Advanced World of Warcraft addon with customizable UI options and combat log handling
+
+## Let's Connect:
 
 I am eager to explore new opportunities and connect with professionals in the tech community. Explore my projects and contributions:
 
 My CurseForge Projects
 My GitHub
 My Software Portfolio
-
-Let's connect and discuss how my skills can add value to your team or project.
