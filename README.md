@@ -93,6 +93,9 @@ Advanced World of Warcraft addon with customizable UI options and combat log han
 
 I am eager to explore new opportunities and connect with professionals in the tech community. Explore my projects and contributions:
 
-- My CurseForge Projects
-- My GitHub
-- My Software Portfolio
+- CurseForge Projects -https://www.curseforge.com/members/klieascm/projects
+
+- My Github - https://github.com/Jay-SCM
+
+- Software Portfolio- https://kscmportfolio.vercel.app
+
