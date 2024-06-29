@@ -92,9 +92,12 @@ Advanced World of Warcraft addon with customizable UI options and combat log han
 
 ## Pinned Repositories
 
+- [SylvDA](https://github.com/Jay-SCM/SylvDA): A project focused on developing dynamic and responsive user interfaces.
+- [BlueFrog](https://github.com/Jay-SCM/BlueFrog): Advanced World of Warcraft addon with customizable UI options and combat log handling.
+- [AutoKB](https://github.com/Jay-SCM/AutoKB): A tool for automating keyboard inputs and enhancing productivity.
+- [klieaweather](https://github.com/Jay-SCM/klieaweather): Fetches real-time weather data and integrates with Unsplash for relevant imagery.
+- [EncryptDcrypt](https://github.com/Jay-SCM/EncryptDcrypt): Securely encrypts and decrypts files using Fernet.
 - [EasyWorkApp](https://github.com/Jay-SCM/EasyWorkApp): A comprehensive application showcasing user-friendly interfaces and complex functionalities.
-- [Weather App](https://kscmportfolio.vercel.app/projects/weatherapp): Fetches real-time weather data and integrates with Unsplash for relevant imagery.
-- [Encryption Tool](https://kscmportfolio.vercel.app/projects/encryptiontool): Securely encrypts and decrypts files using Fernet.
 
 ## Let's Connect:
 
