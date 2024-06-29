@@ -72,26 +72,6 @@ Versatile Software Engineer with a strong foundation in both frontend and backen
 
 ## Notable Projects:
 
-### EasyWorkApp:
-A comprehensive application showcasing user-friendly interfaces and complex functionalities.
-
-### Weather App:
-Fetches real-time weather data and integrates with Unsplash for relevant imagery.
-
-### Encryption Tool:
-Securely encrypts and decrypts files using Fernet.
-
-### Real-Time Chat Application:
-Utilizes Socket.IO for seamless user communication.
-
-### Desktop Assistant:
-Python-based assistant with API integrations for real-time data and controls.
-
-### BlueFrog Addon:
-Advanced World of Warcraft addon with customizable UI options and combat log handling.
-
-## Pinned Repositories
-
 - [SylvDA](https://github.com/Jay-SCM/SylvDA): A project focused on developing dynamic and responsive user interfaces.
 - [BlueFrog](https://github.com/Jay-SCM/BlueFrog): Advanced World of Warcraft addon with customizable UI options and combat log handling.
 - [AutoKB](https://github.com/Jay-SCM/AutoKB): A tool for automating keyboard inputs and enhancing productivity.
