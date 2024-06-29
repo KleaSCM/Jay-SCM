@@ -2,6 +2,8 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Jay-SCM&color=green)
 
+![GitHub Snake Animation](https://github.com/Jay-SCM/Jay-SCM/blob/output/github-contribution-grid-snake.svg)
+
 Versatile Software Engineer with a strong foundation in both frontend and backend technologies, I am dedicated to building robust and user-friendly applications. My expertise spans web and desktop development, encryption and decryption processes, real-time messaging, AI integrations, and game addon development, allowing me to create seamless user experiences and efficient backend systems.
 
 ## Key Skills and Technologies:
