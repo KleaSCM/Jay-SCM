@@ -2,7 +2,18 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Jay-SCM&color=green)
 
-![GitHub Snake Animation](https://github.com/Jay-SCM/Jay-SCM/blob/output/github-contribution-grid-snake.svg)
+## GitHub Stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jay-SCM&show_icons=true&theme=radical)
+
+## Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jay-SCM&layout=compact&theme=radical)
+
+## GitHub Streak
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Jay-SCM&theme=radical)
+
+## GitHub Activity Graph
+![Jay's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Jay-SCM&theme=radical)
+
 
 Versatile Software Engineer with a strong foundation in both frontend and backend technologies, I am dedicated to building robust and user-friendly applications. My expertise spans web and desktop development, encryption and decryption processes, real-time messaging, AI integrations, and game addon development, allowing me to create seamless user experiences and efficient backend systems.
 
