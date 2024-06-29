@@ -28,14 +28,20 @@ jobs:
           github_user_name: Jay-SCM
           outputs: "github-contribution-grid-snake.svg"
 
+      - name: List Directory Contents
+        run: ls -la
+
+      - name: List Directory Contents of Output
+        run: ls -la output
+
       - name: Commit Animation
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-          git add github-contribution-grid-snake.svg
+          git add output/github-contribution-grid-snake.svg
           git commit -m "Generated snake animation"
           git push
 
       - name: Check for generated file
         run: |
-          if [ -f github-contribution-grid-snake.svg ]; then echo "File exists"; else echo "File not found"; fi
+          if [ -f output/github-contribution-grid-snake.svg ]; then echo "File exists"; else echo "File not found"; fi
