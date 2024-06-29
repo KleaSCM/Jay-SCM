@@ -73,43 +73,29 @@ Versatile Software Engineer with a strong foundation in both frontend and backen
 ## Notable Projects:
 
 ### SylvDA
-A project focused on developing dynamic and responsive user interfaces.
+- [SylvDA](https://github.com/Jay-SCM/SylvDA): A project focused on developing dynamic and responsive user interfaces.
 
 - **Technologies Used:** ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript) ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react) ![SCSS](https://img.shields.io/badge/-SCSS-05122A?style=flat&logo=sass)
 
-### BlueFrog
-Advanced World of Warcraft addon with customizable UI options and combat log handling.
+- [BlueFrog](https://github.com/Jay-SCM/BlueFrog): Advanced World of Warcraft addon with customizable UI options and combat log handling.
 
 - **Technologies Used:** ![Lua](https://img.shields.io/badge/-Lua-05122A?style=flat&logo=lua) ![World of Warcraft](https://img.shields.io/badge/-World%20of%20Warcraft-05122A?style=flat&logo=worldofwarcraft)
 
-### AutoKB
-A tool for automating keyboard inputs and enhancing productivity.
+- [AutoKB](https://github.com/Jay-SCM/AutoKB): A tool for automating keyboard inputs and enhancing productivity.
 
 - **Technologies Used:** ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
 
-### klieaweather
-Fetches real-time weather data and integrates with Unsplash for relevant imagery.
+- [klieaweather](https://github.com/Jay-SCM/klieaweather): Fetches real-time weather data and integrates with Unsplash for relevant imagery.
 
 - **Technologies Used:** ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript) ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react) ![Axios](https://img.shields.io/badge/-Axios-05122A?style=flat&logo=axios)
 
-### EncryptDcrypt
-Securely encrypts and decrypts files using Fernet.
+- [EncryptDcrypt](https://github.com/Jay-SCM/EncryptDcrypt): Securely encrypts and decrypts files using Fernet.
 
 - **Technologies Used:** ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python) ![Fernet](https://img.shields.io/badge/-Fernet-05122A?style=flat&logo=key)
 
-### EasyWorkApp
-A comprehensive application showcasing user-friendly interfaces and complex functionalities.
+- [EasyWorkApp](https://github.com/Jay-SCM/EasyWorkApp): A comprehensive application showcasing user-friendly interfaces and complex functionalities.
 
 - **Technologies Used:** ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript) ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react) ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js) ![Express.js](https://img.shields.io/badge/-Express.js-05122A?style=flat&logo=express) ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)
-
-## Pinned Repositories
-
-- [SylvDA](https://github.com/Jay-SCM/SylvDA): A project focused on developing dynamic and responsive user interfaces.
-- [BlueFrog](https://github.com/Jay-SCM/BlueFrog): Advanced World of Warcraft addon with customizable UI options and combat log handling.
-- [AutoKB](https://github.com/Jay-SCM/AutoKB): A tool for automating keyboard inputs and enhancing productivity.
-- [klieaweather](https://github.com/Jay-SCM/klieaweather): Fetches real-time weather data and integrates with Unsplash for relevant imagery.
-- [EncryptDcrypt](https://github.com/Jay-SCM/EncryptDcrypt): Securely encrypts and decrypts files using Fernet.
-- [EasyWorkApp](https://github.com/Jay-SCM/EasyWorkApp): A comprehensive application showcasing user-friendly interfaces and complex functionalities.
 
 ## Let's Connect:
 
