@@ -1,3 +1,28 @@
+# Jay SCM
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![HTMX](https://img.shields.io/badge/HTMX-0A0A0A?style=for-the-badge&logo=html5&logoColor=white)
+![Fyne](https://img.shields.io/badge/Fyne-1B1F24?style=for-the-badge&logo=fyne&logoColor=white)
+![Tauri](https://img.shields.io/badge/Tauri-000000?style=for-the-badge&logo=tauri&logoColor=white)
+
+## GitHub Stats
+
+![Jay's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jay-SCM&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jay-SCM&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Jay-SCM&theme=radical)
+
 ## Key Skills and Technologies
 
 ### Frontend Development
@@ -13,10 +38,6 @@
 - ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white) - Used for performance-critical backend tasks due to its memory safety and speed.
 - ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) - JavaScript runtime for building scalable network applications.
 - ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) - A minimalist web framework for Node.js, used for building APIs.
-- ![SQL](https://img.shields.io/badge/-SQL-05122A?style=for-the-badge&logo=mysql) - A language for managing and querying relational databases.
-- ![NoSQL](https://img.shields.io/badge/-NoSQL-05122A?style=for-the-badge&logo=mongodb) - Used for non-relational databases, providing flexible schema design.
-- ![GraphQL](https://img.shields.io/badge/-GraphQL-05122A?style=for-the-badge&logo=graphql) - A query language for APIs, allowing clients to request exactly what they need.
-- ![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=for-the-badge&logo=firebase) - Provides backend services, including real-time databases and authentication.
 
 ### Frameworks
 - ![Gin](https://img.shields.io/badge/-Gin-05122A?style=for-the-badge&logo=go) - A high-performance web framework for Go.
@@ -46,4 +67,3 @@
 - ![JSON](https://img.shields.io/badge/-JSON-05122A?style=for-the-badge&logo=json) - A lightweight data interchange format used in web APIs.
 - ![C#](https://img.shields.io/badge/-C%23-05122A?style=for-the-badge&logo=csharp) - A language for developing a range of applications, from web to desktop.
 - ![Python](https://img.shields.io/badge/-Python-05122A?style=for-the-badge&logo=python) - Used for automation, data analysis, and rapid prototyping.
-- ![Lua](https://img.shields.io/badge/-Lua-05122A?style=for-the-badge&logo=lua) - A lightweight scripting language for various applications.
