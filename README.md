@@ -77,7 +77,17 @@
 ## Projects
 
 ### Alchemy
-**Description:** Alchemy is an advanced file organizer and metadata manager. It provides features like file organization, metadata extraction, deduplication, and file management with a user-friendly and visually appealing GUI. The project uses a combination of Go for backend functionalities and Rust for performance-critical tasks. The frontend is built with Next.js and TypeScript, styled with Sass, and integrates various modern technologies for a cohesive user experience.
+**Description:** Alchemy is an advanced file organizer and metadata manager. It offers features such as file organization, metadata extraction, deduplication, and file management. The project utilizes a combination of modern technologies for an optimal user experience.
+
+- **GitHub Repository:** [Alchemy](https://github.com/Jay-SCM/alchemy)
+- **Technologies Used:**
+  - ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) - Main language for backend development, known for its simplicity and performance.
+  - ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white) - Used for performance-critical backend tasks due to its memory safety and speed.
+  - ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) - Adds static types to JavaScript, improving code quality and development efficiency.
+  - ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) - A React framework that enables server-side rendering and static site generation.
+  - ![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white) - A CSS preprocessor that adds variables, nested rules, and more to CSS.
+  - ![Fyne](https://img.shields.io/badge/Fyne-1B1F24?style=for-the-badge&logo=fyne&logoColor=white) - A toolkit for building cross-platform desktop applications in Go.
+  - ![Tauri](https://img.shields.io/badge/Tauri-000000?style=for-the-badge&logo=tauri&logoColor=white) - Allows creating secure, cross-platform desktop applications using web technologies.
 
 - **GitHub Repository:** [Alchemy](https://github.com/Jay-SCM/alchemy)
 - **Technologies Used:** Go, Rust, TypeScript, Next.js, Sass, Fyne (for desktop application GUI), Tauri (for cross-platform desktop applications).
