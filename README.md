@@ -63,12 +63,6 @@
 - ![AWS](https://img.shields.io/badge/-AWS-05122A?style=for-the-badge&logo=amazonaws) - Amazon Web Services, offering cloud computing services and infrastructure.
 - ![Azure](https://img.shields.io/badge/-Azure-05122A?style=for-the-badge&logo=azure) - Microsoft's cloud computing platform for building, testing, and deploying applications.
 
-### Additional Tools
-- ![JSON](https://img.shields.io/badge/-JSON-05122A?style=for-the-badge&logo=json) - A lightweight data interchange format used in web APIs.
-- ![C#](https://img.shields.io/badge/-C%23-05122A?style=for-the-badge&logo=csharp) - A language for developing a range of applications, from web to desktop.
-- ![Python](https://img.shields.io/badge/-Python-05122A?style=for-the-badge&logo=python) - Used for automation, data analysis, and rapid prototyping.
-
-- ### Encryption and Security:
 ![Cryptography](https://img.shields.io/badge/-Cryptography-05122A?style=flat&logo=lock)
 ![Fernet](https://img.shields.io/badge/-Fernet-05122A?style=flat&logo=key)
 
@@ -78,6 +72,14 @@
 ### Game Addon Development:
 ![Lua](https://img.shields.io/badge/-Lua-05122A?style=flat&logo=lua)
 ![World of Warcraft](https://img.shields.io/badge/-World%20of%20Warcraft-05122A?style=flat&logo=worldofwarcraft)
+
+### Additional Tools
+- ![JSON](https://img.shields.io/badge/-JSON-05122A?style=for-the-badge&logo=json) - A lightweight data interchange format used in web APIs.
+- ![C#](https://img.shields.io/badge/-C%23-05122A?style=for-the-badge&logo=csharp) - A language for developing a range of applications, from web to desktop.
+- ![Python](https://img.shields.io/badge/-Python-05122A?style=for-the-badge&logo=python) - Used for automation, data analysis, and rapid prototyping.
+
+
+
 
 ## Notable Projects:
 
