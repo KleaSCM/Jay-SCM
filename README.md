@@ -90,7 +90,7 @@
   - ![Tauri](https://img.shields.io/badge/Tauri-000000?style=for-the-badge&logo=tauri&logoColor=white) - Allows creating secure, cross-platform desktop applications using web technologies.
 
 - **GitHub Repository:** [Alchemy](https://github.com/Jay-SCM/alchemy)
-- **Technologies Used:** Go, Rust, TypeScript, Next.js, Sass, Fyne (for desktop application GUI), Tauri (for cross-platform desktop applications).
+
 
 ### Other Notable Projects
 - **TravelCost App:** A web application for calculating time and fuel costs for travel. Built with Next.js, TypeScript, and styled to be cute and user-friendly.
