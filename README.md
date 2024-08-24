@@ -63,58 +63,33 @@
 - ![AWS](https://img.shields.io/badge/-AWS-05122A?style=for-the-badge&logo=amazonaws) - Amazon Web Services, offering cloud computing services and infrastructure.
 - ![Azure](https://img.shields.io/badge/-Azure-05122A?style=for-the-badge&logo=azure) - Microsoft's cloud computing platform for building, testing, and deploying applications.
 
-![Cryptography](https://img.shields.io/badge/-Cryptography-05122A?style=flat&logo=lock)
-![Fernet](https://img.shields.io/badge/-Fernet-05122A?style=flat&logo=key)
+### Cryptography
+- ![Cryptography](https://img.shields.io/badge/-Cryptography-05122A?style=flat&logo=lock)
+- ![Fernet](https://img.shields.io/badge/-Fernet-05122A?style=flat&logo=key)
 
-### AI Integration:
-![OpenAI](https://img.shields.io/badge/-OpenAI-05122A?style=flat&logo=openai)
+### AI Integration
+- ![OpenAI](https://img.shields.io/badge/-OpenAI-05122A?style=flat&logo=openai)
 
-### Game Addon Development:
-![Lua](https://img.shields.io/badge/-Lua-05122A?style=flat&logo=lua)
-![World of Warcraft](https://img.shields.io/badge/-World%20of%20Warcraft-05122A?style=flat&logo=worldofwarcraft)
+### Game Addon Development
+- ![Lua](https://img.shields.io/badge/-Lua-05122A?style=flat&logo=lua)
+- ![World of Warcraft](https://img.shields.io/badge/-World%20of%20Warcraft-05122A?style=flat&logo=blizzard)
 
-### Additional Tools
-- ![JSON](https://img.shields.io/badge/-JSON-05122A?style=for-the-badge&logo=json) - A lightweight data interchange format used in web APIs.
-- ![C#](https://img.shields.io/badge/-C%23-05122A?style=for-the-badge&logo=csharp) - A language for developing a range of applications, from web to desktop.
-- ![Python](https://img.shields.io/badge/-Python-05122A?style=for-the-badge&logo=python) - Used for automation, data analysis, and rapid prototyping.
+## Projects
 
+### Alchemy
+**Description:** Alchemy is an advanced file organizer and metadata manager. It provides features like file organization, metadata extraction, deduplication, and file management with a user-friendly and visually appealing GUI. The project uses a combination of Go for backend functionalities and Rust for performance-critical tasks. The frontend is built with Next.js and TypeScript, styled with Sass, and integrates various modern technologies for a cohesive user experience.
 
+- **GitHub Repository:** [Alchemy](https://github.com/Jay-SCM/alchemy)
+- **Technologies Used:** Go, Rust, TypeScript, Next.js, Sass, Fyne (for desktop application GUI), Tauri (for cross-platform desktop applications).
 
+### Other Notable Projects
+- **TravelCost App:** A web application for calculating time and fuel costs for travel. Built with Next.js, TypeScript, and styled to be cute and user-friendly.
+- **Car Comparison App:** Developed with DroidScript, this app allows users to compare cars based on their power-to-weight ratio and rate them.
 
-## Notable Projects:
+## Contact
 
-### SylvDA
-- [SylvDA](https://github.com/Jay-SCM/SylvDA): A project focused on developing dynamic and responsive user interfaces.
+- **Email:** [jay.scm@example.com](mailto:jay.scm@example.com)
+- **LinkedIn:** [Jay SCM](https://www.linkedin.com/in/jay-scm)
+- **Website:** [Jay SCM Portfolio](https://jay-scm-portfolio.com)
 
-- **Technologies Used:** ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript) ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react) ![SCSS](https://img.shields.io/badge/-SCSS-05122A?style=flat&logo=sass)
-
-- [BlueFrog](https://github.com/Jay-SCM/BlueFrog): Advanced World of Warcraft addon with customizable UI options and combat log handling.
-
-- **Technologies Used:** ![Lua](https://img.shields.io/badge/-Lua-05122A?style=flat&logo=lua) ![World of Warcraft](https://img.shields.io/badge/-World%20of%20Warcraft-05122A?style=flat&logo=worldofwarcraft)
-
-- [AutoKB](https://github.com/Jay-SCM/AutoKB): A tool for automating keyboard inputs and enhancing productivity.
-
-- **Technologies Used:** ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
-
-- [klieaweather](https://github.com/Jay-SCM/klieaweather): Fetches real-time weather data and integrates with Unsplash for relevant imagery.
-
-- **Technologies Used:** ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript) ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react) ![Axios](https://img.shields.io/badge/-Axios-05122A?style=flat&logo=axios)
-
-- [EncryptDcrypt](https://github.com/Jay-SCM/EncryptDcrypt): Securely encrypts and decrypts files using Fernet.
-
-- **Technologies Used:** ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python) ![Fernet](https://img.shields.io/badge/-Fernet-05122A?style=flat&logo=key)
-
-- [EasyWorkApp](https://github.com/Jay-SCM/EasyWorkApp): A comprehensive application showcasing user-friendly interfaces and complex functionalities.
-
-- **Technologies Used:** ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript) ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react) ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js) ![Express.js](https://img.shields.io/badge/-Express.js-05122A?style=flat&logo=express) ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)
-
-## Let's Connect:
-
-I am eager to explore new opportunities and connect with professionals in the tech community. Explore my projects and contributions:
-
-- [CurseForge Projects](https://www.curseforge.com/members/klieascm/projects)
-- [GitHub](https://github.com/Jay-SCM)
-- [Software Portfolio](https://kscmportfolio.vercel.app)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-05122A?style=flat&logo=linkedin)](https://www.linkedin.com/in/your-profile)
-[![GitHub](https://img.shields.io/badge/GitHub-05122A?style=flat&logo=github)](https://github.com/Jay-SCM)
+Feel free to explore my repositories and reach out if you have any questions or collaborations in mind!
