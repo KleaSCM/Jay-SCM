@@ -1,15 +1,16 @@
 # Jay SCM
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Profile Views](https://komarev.com/ghpvc/?username=Jay-SCM&color=green)
 
 ## GitHub Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jay-SCM&show_icons=true&theme=radical)
+![Jay's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jay-SCM&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jay-SCM&layout=compact&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Jay-SCM&theme=radical)
 
-Versatile Software Engineer with a strong foundation in both frontend and backend technologies, I am dedicated to building robust and user-friendly applications. My expertise spans web and desktop development, encryption and decryption processes, real-time messaging, AI integrations, and game addon development, allowing me to create seamless user experiences and efficient backend systems.
+As a dedicated Full-Stack Developer, I specialize in creating seamless user experiences and efficient backend systems. My work encompasses cross-platform development, leveraging modern frameworks, performance optimization, and advanced file management solutions. Whether it’s working with microservices, handling data, or building user interfaces, I always aim to deliver high-quality solutions.
 
 ## Key Skills and Technologies:
 
@@ -17,94 +18,108 @@ Versatile Software Engineer with a strong foundation in both frontend and backen
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript) 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
-![Vue](https://img.shields.io/badge/-Vue-05122A?style=flat&logo=vue.js)
-![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular)
 ![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js)
 ![SCSS](https://img.shields.io/badge/-SCSS-05122A?style=flat&logo=sass)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap)
-![MUI](https://img.shields.io/badge/-MUI-05122A?style=flat&logo=mui)
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css3)
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=html5)
+![HTMX](https://img.shields.io/badge/-HTMX-05122A?style=flat&logo=html5)
 
 ### Backend Development:
+![Go](https://img.shields.io/badge/-Go-05122A?style=flat&logo=go)
+![Rust](https://img.shields.io/badge/-Rust-05122A?style=flat&logo=rust)
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)
 ![Express.js](https://img.shields.io/badge/-Express.js-05122A?style=flat&logo=express)
-![.NET](https://img.shields.io/badge/-.NET-05122A?style=flat&logo=dotnet)
+![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=mysql)
+![NoSQL](https://img.shields.io/badge/-NoSQL-05122A?style=flat&logo=mongodb)
+![GraphQL](https://img.shields.io/badge/-GraphQL-05122A?style=flat&logo=graphql)
+![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase)
 
-### Databases:
+**Backend Languages:**
+
+- **Go:** Main language for backend development.
+- **Rust:** For performance-critical backend tasks.
+
+**Frameworks:**
+
+- **Gin:** HTTP web framework in Go.
+- **Echo:** High-performance web framework in Go.
+- **Actix:** Web framework for Rust.
+- **Rocket:** Web framework for Rust.
+
+### Database:
+![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=mysql)
+![NoSQL](https://img.shields.io/badge/-NoSQL-05122A?style=flat&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)
-![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)
-![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)
-
-### Build Tools:
-![Vite](https://img.shields.io/badge/-Vite-05122A?style=flat&logo=vite)
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
-![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)
-
-### API Integration:
-![RESTful APIs](https://img.shields.io/badge/-RESTful%20APIs-05122A?style=flat&logo=api)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-05122A?style=flat&logo=graphql)
-![Axios](https://img.shields.io/badge/-Axios-05122A?style=flat&logo=axios)
-![Socket.IO](https://img.shields.io/badge/-Socket.IO-05122A?style=flat&logo=socket.io)
+![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase)
 
-### Python Development:
+**Database:**
+
+- **SQL:** For relational databases.
+- **NoSQL:** For non-relational databases.
+- **MySQL:** Relational database management system.
+- **MongoDB:** Document-oriented NoSQL database.
+- **GraphQL:** For API queries.
+- **Firebase:** Backend-as-a-Service (BaaS) for real-time databases and more.
+
+### Cross-Platform Development:
+![Fyne](https://img.shields.io/badge/-Fyne-05122A?style=flat&logo=fyne)
+![Tauri](https://img.shields.io/badge/-Tauri-05122A?style=flat&logo=tauri)
+
+**Cross-Platform Development:**
+
+- **Fyne:** For cross-platform desktop applications in Go.
+- **Tauri:** For small, fast, and secure desktop applications using web technologies.
+
+### Architecture & Deployment:
+![Microservices](https://img.shields.io/badge/-Microservices_Architecture-05122A?style=flat&logo=cloudsmith) 
+![WASM](https://img.shields.io/badge/-WASM-05122A?style=flat&logo=webassembly)
+![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazonaws)
+![Azure](https://img.shields.io/badge/-Azure-05122A?style=flat&logo=azure)
+
+**Architecture & Deployment:**
+
+- **Microservices Architecture:** For structuring applications as loosely coupled services.
+- **WASM:** For high-performance code in the browser.
+- **Cloud Services:** Azure and AWS for hosting and scaling applications.
+
+### Other Tools:
+![JSON](https://img.shields.io/badge/-JSON-05122A?style=flat&logo=json)
+![C#](https://img.shields.io/badge/-C%23-05122A?style=flat&logo=csharp)
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
-![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=pandas)
-![Numpy](https://img.shields.io/badge/-Numpy-05122A?style=flat&logo=numpy)
-
-### Desktop Development:
-![C#](https://img.shields.io/badge/-C%23-05122A?style=flat&logo=c-sharp)
-![.NET](https://img.shields.io/badge/-.NET-05122A?style=flat&logo=dotnet)
-![WinForms](https://img.shields.io/badge/-WinForms-05122A?style=flat&logo=microsoft)
-
-### Encryption and Security:
-![Cryptography](https://img.shields.io/badge/-Cryptography-05122A?style=flat&logo=lock)
-![Fernet](https://img.shields.io/badge/-Fernet-05122A?style=flat&logo=key)
-
-### AI Integration:
-![OpenAI](https://img.shields.io/badge/-OpenAI-05122A?style=flat&logo=openai)
-
-### Game Addon Development:
 ![Lua](https://img.shields.io/badge/-Lua-05122A?style=flat&logo=lua)
-![World of Warcraft](https://img.shields.io/badge/-World%20of%20Warcraft-05122A?style=flat&logo=worldofwarcraft)
+
+**Other Tools:**
+
+- **JSON:** Data exchange format, particularly for APIs.
+- **C#:** For general-purpose programming and personal projects.
+- **Python:** For automation, scripting, and prototyping.
+- **Lua:** Lightweight scripting language for various applications.
+
+### Projects:
+![BlueFrog](https://img.shields.io/badge/-BlueFrog-05122A?style=flat&logo=blue)
+**BlueFrog:** [BlueFrog](https://github.com/Jay-SCM/BlueFrog) is a dynamic project showcasing innovative solutions and advanced features.
 
 ## Notable Projects:
 
-### SylvDA
-- [SylvDA](https://github.com/Jay-SCM/SylvDA): A project focused on developing dynamic and responsive user interfaces.
+### Alchemy
+- [Alchemy](https://github.com/Jay-SCM/alchemy): Advanced file organizer and metadata manager with a focus on cross-platform support.
 
-- **Technologies Used:** ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript) ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react) ![SCSS](https://img.shields.io/badge/-SCSS-05122A?style=flat&logo=sass)
+- **Technologies Used:** ![Go](https://img.shields.io/badge/-Go-05122A?style=flat&logo=go) ![Rust](https://img.shields.io/badge/-Rust-05122A?style=flat&logo=rust) ![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js) ![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=sass)
 
-- [BlueFrog](https://github.com/Jay-SCM/BlueFrog): Advanced World of Warcraft addon with customizable UI options and combat log handling.
+### TravelCost
+- [TravelCost](https://github.com/Jay-SCM/TravelCost): An interactive app to calculate travel time and fuel cost, featuring a super cute and responsive UI.
 
-- **Technologies Used:** ![Lua](https://img.shields.io/badge/-Lua-05122A?style=flat&logo=lua) ![World of Warcraft](https://img.shields.io/badge/-World%20of%20Warcraft-05122A?style=flat&logo=worldofwarcraft)
+- **Technologies Used:** ![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js) ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript) ![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=sass)
 
-- [AutoKB](https://github.com/Jay-SCM/AutoKB): A tool for automating keyboard inputs and enhancing productivity.
+### AutoKB
+- [AutoKB](https://github.com/Jay-SCM/AutoKB): A tool for automating keyboard inputs to enhance productivity.
 
-- **Technologies Used:** ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
-
-- [klieaweather](https://github.com/Jay-SCM/klieaweather): Fetches real-time weather data and integrates with Unsplash for relevant imagery.
-
-- **Technologies Used:** ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript) ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react) ![Axios](https://img.shields.io/badge/-Axios-05122A?style=flat&logo=axios)
-
-- [EncryptDcrypt](https://github.com/Jay-SCM/EncryptDcrypt): Securely encrypts and decrypts files using Fernet.
-
-- **Technologies Used:** ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python) ![Fernet](https://img.shields.io/badge/-Fernet-05122A?style=flat&logo=key)
-
-- [EasyWorkApp](https://github.com/Jay-SCM/EasyWorkApp): A comprehensive application showcasing user-friendly interfaces and complex functionalities.
-
-- **Technologies Used:** ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript) ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react) ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js) ![Express.js](https://img.shields.io/badge/-Express.js-05122A?style=flat&logo=express) ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)
+- **Technologies Used:** ![Go](https://img.shields.io/badge/-Go-05122A?style=flat&logo=go) ![Rust](https://img.shields.io/badge/-Rust-05122A?style=flat&logo=rust)
 
 ## Let's Connect:
 
-I am eager to explore new opportunities and connect with professionals in the tech community. Explore my projects and contributions:
+I’m always open to exploring new opportunities and connecting with like-minded professionals. Explore my projects and contributions:
 
-- [CurseForge Projects](https://www.curseforge.com/members/klieascm/projects)
 - [GitHub](https://github.com/Jay-SCM)
-- [Software Portfolio](https://kscmportfolio.vercel.app)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-05122A?style=flat&logo=linkedin)](https://www.linkedin.com/in/your-profile)
-[![GitHub](https://img.shields.io/badge/GitHub-05122A?style=flat&logo=github)](https://github.com/Jay-SCM)
-
+- [Portfolio](https://kscmportfolio.vercel.app)
+- [LinkedIn](https://www.linkedin.com/in/your-profile)
