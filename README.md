@@ -1,4 +1,17 @@
-# Jay SCM
+# KlieaSCM
+
+I'm a passionate software engineer with a strong focus on full-stack and cross-platform development. Over the past 5 years, I've built a diverse portfolio of projects utilizing a range of technologies, including TypeScript, React, Go, Rust, and Tauri.
+
+Key Projects:
+Axolotl: A cross-platform desktop application featuring a customizable app launcher, real-time messaging, and Spotify integration. Built with Tauri, Rust, and TypeScript.
+BlueFrog: An addon for World of Warcraft that provides real-time combat event tracking with customizable notifications. Performance-optimized and developed with Lua.
+KlieaAlchemy: A file upload and management system using Actix and Rust for the backend, and React for the frontend. Enhanced backend efficiency and reduced upload latency.
+SylvDA: A desktop assistant integrating OpenAI and various APIs, built with Python and Tkinter.
+I’m also experienced in SharePoint administration, data integration, and automation, and hold a Professional Certificate in Software Development from Curtin University, alongside a Master’s in Physics.
+
+Feel free to explore my repositories to see the projects I’ve been working on. I’m always open to collaboration and new opportunities to drive innovation in software development.
+
+
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
