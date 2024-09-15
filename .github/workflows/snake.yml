@@ -2,18 +2,18 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
+    - cron: "0 0 * * *"  # Schedule to run daily at midnight
+  workflow_dispatch:  # Allows manual trigger from the GitHub Actions tab
   push:
     paths:
-      - README.md
+      - README.md  # Triggers the workflow when README.md changes
 
 jobs:
   build:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout
+      - name: Checkout repository
         uses: actions/checkout@v2
 
       - name: Set up Python
@@ -22,29 +22,32 @@ jobs:
           python-version: '3.x'
 
       - name: Generate Snake Animation
-        uses: Platane/snk@master
+        uses: Platane/snk@v3.2.0
         with:
-          github_user_name: Jay-SCM
-          svg_out_path: github-contribution-grid-snake.svg
+          github_user_name: ${{ github.repository_owner }}
+          # List of files to generate, each line is a separate file with options
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
 
       - name: List Directory Contents
-        run: ls -la
+        run: ls -la dist/
+
+      - name: Display SVG File Contents
+        run: cat dist/github-snake.svg || echo "SVG file not found"
 
       - name: Check for changes
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-          git add github-contribution-grid-snake.svg
+          git add dist/github-snake.svg
           if ! git diff --cached --quiet; then
             git commit -m "Generated snake animation"
             git push
           else
             echo "No changes to commit"
           fi
-
-      - name: Verify generated file
-        run: |
-          if [ -f github-contribution-grid-snake.svg ]; then echo "File exists"; else echo "File not found"; fi
 
 
 
