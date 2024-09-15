@@ -25,7 +25,6 @@ jobs:
         uses: Platane/snk@v3.2.0
         with:
           github_user_name: ${{ github.repository_owner }}
-          # List of files to generate, each line is a separate file with options
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
@@ -37,10 +36,14 @@ jobs:
       - name: Display SVG File Contents
         run: cat dist/github-snake.svg || echo "SVG file not found"
 
-      - name: Check for changes
+      - name: Pull Remote Changes
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git pull --rebase
+
+      - name: Commit and Push Changes
+        run: |
           git add dist/github-snake.svg
           if ! git diff --cached --quiet; then
             git commit -m "Generated snake animation"
