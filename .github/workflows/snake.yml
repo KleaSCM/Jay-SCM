@@ -30,19 +30,21 @@ jobs:
       - name: List Directory Contents
         run: ls -la
 
-      - name: Update File Timestamp (force Git to detect changes)
-        run: touch github-contribution-grid-snake.svg
-
-      - name: Commit Animation
+      - name: Check for changes
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
           git add github-contribution-grid-snake.svg
-          git commit -m "Generated snake animation [force-update]" || echo "No changes to commit"
-          git push
+          if ! git diff --cached --quiet; then
+            git commit -m "Generated snake animation"
+            git push
+          else
+            echo "No changes to commit"
+          fi
 
-      - name: Check for generated file
+      - name: Verify generated file
         run: |
           if [ -f github-contribution-grid-snake.svg ]; then echo "File exists"; else echo "File not found"; fi
+
 
 
