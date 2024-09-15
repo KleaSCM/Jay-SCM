@@ -1,5 +1,7 @@
 # KlieaSCM
 
+![GitHub Snake](https://raw.githubusercontent.com/Jay-SCM/Jay-SCM/main/dist/github-contribution-grid-snake.svg)
+
 I'm a passionate software engineer with a strong focus on full-stack and cross-platform development. Over the past 5 years, I've built a diverse portfolio of projects utilizing a range of technologies, including TypeScript, React, Go, Rust, and Tauri.
 
 Key Projects:
