@@ -1,120 +1,27 @@
-# KlieaSCM
-
-![GitHub Snake](https://raw.githubusercontent.com/Jay-SCM/Jay-SCM/main/github-contribution-grid-snake.svg)
-
-I'm a passionate software engineer with a strong focus on full-stack and cross-platform development. Over the past 5 years, I've built a diverse portfolio of projects utilizing a range of technologies, including TypeScript, React, Go, Rust, and Tauri.
-
-Key Projects:
-Axolotl: A cross-platform desktop application featuring a customizable app launcher, real-time messaging, and Spotify integration. Built with Tauri, Rust, and TypeScript.
-BlueFrog: An addon for World of Warcraft that provides real-time combat event tracking with customizable notifications. Performance-optimized and developed with Lua.
-KlieaAlchemy: A file upload and management system using Actix and Rust for the backend, and React for the frontend. Enhanced backend efficiency and reduced upload latency.
-SylvDA: A desktop assistant integrating OpenAI and various APIs, built with Python and Tkinter.
-I’m also experienced in SharePoint administration, data integration, and automation, and hold a Professional Certificate in Software Development from Curtin University, alongside a Master’s in Physics.
-
-Feel free to explore my repositories to see the projects I’ve been working on. I’m always open to collaboration and new opportunities to drive innovation in software development.
+# 💫 About Me:
+🔭  I’m currently working on developing Liadrin, an application organizer that uses Rust and Go for the backend with TypeScript for the frontend. It includes a communication service with real-time chat and collaboration features.<br>👯 I’m looking to collaborate on projects involving full-stack development, particularly with TypeScript, React, Go, Rust, or Tauri. I’m also interested in collaboration on cross-platform and microservices architecture.<br>🤝 I’m looking for help with enhancing Devonianreef, especially in optimizing the language translation features for better accuracy and performance.<br>🌱 I’m currently learning more advanced techniques in TypeScript and React, as well as diving deeper into Rust and Go for backend development.<br>💬 Ask me about Full-stack development, cross-platform applications, Neovim configuration, and my projects like Axolotl, BlueFrog, KlieaAlchemy, and SylvDA.<br>⚡ Fun fact I grew up in the remote kimberlies in Australia and have a passion for World of Warcraft add-on development, having created several add-ons to enhance gameplay.
 
 
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/invite/YgdXs3rn) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/john-f-8094a9266) 
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![HTMX](https://img.shields.io/badge/HTMX-0A0A0A?style=for-the-badge&logo=html5&logoColor=white)
-![Fyne](https://img.shields.io/badge/Fyne-1B1F24?style=for-the-badge&logo=fyne&logoColor=white)
-![Tauri](https://img.shields.io/badge/Tauri-000000?style=for-the-badge&logo=tauri&logoColor=white)
+# 💻 Tech Stack:
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white) ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![SolidJS](https://img.shields.io/badge/SolidJS-2c4f7c?style=for-the-badge&logo=solid&logoColor=c8c9cb) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Tauri](https://img.shields.io/badge/tauri-%2324C8DB.svg?style=for-the-badge&logo=tauri&logoColor=%23FFFFFF) ![Type-graphql](https://img.shields.io/badge/-TypeGraphQL-%23C04392?style=for-the-badge) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Xamarin](https://img.shields.io/badge/Xamarin-3199DC?style=for-the-badge&logo=xamarin&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=KleaSCM&theme=neon&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=KleaSCM&theme=neon&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=KleaSCM&theme=neon&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-## GitHub Stats
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=KleaSCM&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-![Jay's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jay-SCM&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jay-SCM&layout=compact&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Jay-SCM&theme=radical)
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-## Key Skills and Technologies
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=KleaSCM&limit=5&theme=synthwave&combine_all_yearly_contributions=true)
 
-### Frontend Development
-- ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&logo=javascript) - Used for building dynamic and interactive web applications.
-- ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=for-the-badge&logo=typescript) - Adds static types to JavaScript, improving code quality and development efficiency.
-- ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) - A popular library for building user interfaces, especially single-page applications.
-- ![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=for-the-badge&logo=next.js) - A React framework that enables server-side rendering and static site generation.
-- ![SCSS](https://img.shields.io/badge/-SCSS-05122A?style=for-the-badge&logo=sass) - A CSS preprocessor that adds variables, nested rules, and more to CSS.
-- ![HTMX](https://img.shields.io/badge/-HTMX-05122A?style=for-the-badge&logo=html5) - A library for extending HTML with attributes to make it more dynamic.
+---
+[![](https://visitcount.itsvg.in/api?id=KleaSCM&icon=2&color=4)](https://visitcount.itsvg.in)
 
-### Backend Development
-- ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) - Main language for backend development, known for its simplicity and performance.
-- ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white) - Used for performance-critical backend tasks due to its memory safety and speed.
-- ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) - JavaScript runtime for building scalable network applications.
-- ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) - A minimalist web framework for Node.js, used for building APIs.
-
-### Frameworks
-- ![Gin](https://img.shields.io/badge/-Gin-05122A?style=for-the-badge&logo=go) - A high-performance web framework for Go.
-- ![Echo](https://img.shields.io/badge/-Echo-05122A?style=for-the-badge&logo=go) - Another high-performance web framework for Go.
-- ![Actix](https://img.shields.io/badge/-Actix-05122A?style=for-the-badge&logo=rust) - A powerful web framework for Rust.
-- ![Rocket](https://img.shields.io/badge/-Rocket-05122A?style=for-the-badge&logo=rust) - A web framework for Rust, focusing on ease of use and safety.
-
-### Database
-- ![SQL](https://img.shields.io/badge/-SQL-05122A?style=for-the-badge&logo=mysql) - Used for managing structured data in relational databases.
-- ![NoSQL](https://img.shields.io/badge/-NoSQL-05122A?style=for-the-badge&logo=mongodb) - Designed for handling unstructured or semi-structured data.
-- ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=for-the-badge&logo=mysql) - A widely-used relational database management system.
-- ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=for-the-badge&logo=mongodb) - A document-oriented NoSQL database.
-- ![GraphQL](https://img.shields.io/badge/-GraphQL-05122A?style=for-the-badge&logo=graphql) - Facilitates efficient querying and manipulation of data.
-- ![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=for-the-badge&logo=firebase) - Provides real-time database services and other backend features.
-
-### Cross-Platform Development
-- ![Fyne](https://img.shields.io/badge/-Fyne-05122A?style=for-the-badge&logo=fyne) - A toolkit for building cross-platform desktop applications in Go.
-- ![Tauri](https://img.shields.io/badge/-Tauri-05122A?style=for-the-badge&logo=tauri) - Allows creating secure, cross-platform desktop applications using web technologies.
-
-### Architecture & Deployment
-- ![Microservices](https://img.shields.io/badge/-Microservices-05122A?style=for-the-badge&logo=architecture) - Structures applications as loosely coupled services, enhancing scalability and maintainability.
-- ![WASM](https://img.shields.io/badge/-WASM-05122A?style=for-the-badge&logo=webassembly) - Enables high-performance code execution in the browser.
-- ![AWS](https://img.shields.io/badge/-AWS-05122A?style=for-the-badge&logo=amazonaws) - Amazon Web Services, offering cloud computing services and infrastructure.
-- ![Azure](https://img.shields.io/badge/-Azure-05122A?style=for-the-badge&logo=azure) - Microsoft's cloud computing platform for building, testing, and deploying applications.
-
-### Cryptography
-- ![Cryptography](https://img.shields.io/badge/-Cryptography-05122A?style=flat&logo=lock)
-- ![Fernet](https://img.shields.io/badge/-Fernet-05122A?style=flat&logo=key)
-
-### AI Integration
-- ![OpenAI](https://img.shields.io/badge/-OpenAI-05122A?style=flat&logo=openai)
-
-### Game Addon Development
-- ![Lua](https://img.shields.io/badge/-Lua-05122A?style=flat&logo=lua)
-- ![World of Warcraft](https://img.shields.io/badge/-World%20of%20Warcraft-05122A?style=flat&logo=blizzard)
-
-## Projects
-
-### Alchemy
-**Description:** Alchemy is an advanced file organizer and metadata manager. It offers features such as file organization, metadata extraction, deduplication, and file management. The project utilizes a combination of modern technologies for an optimal user experience.
-
-- **GitHub Repository:** [Alchemy](https://github.com/Jay-SCM/alchemy)
-- **Technologies Used:**
-  - ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) - Main language for backend development, known for its simplicity and performance.
-  - ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white) - Used for performance-critical backend tasks due to its memory safety and speed.
-  - ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) - Adds static types to JavaScript, improving code quality and development efficiency.
-  - ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) - A React framework that enables server-side rendering and static site generation.
-  - ![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white) - A CSS preprocessor that adds variables, nested rules, and more to CSS.
-  - ![Fyne](https://img.shields.io/badge/Fyne-1B1F24?style=for-the-badge&logo=fyne&logoColor=white) - A toolkit for building cross-platform desktop applications in Go.
-  - ![Tauri](https://img.shields.io/badge/Tauri-000000?style=for-the-badge&logo=tauri&logoColor=white) - Allows creating secure, cross-platform desktop applications using web technologies.
-
-- **GitHub Repository:** [Alchemy](https://github.com/Jay-SCM/alchemy)
-
-
-### Other Notable Projects
-- **TravelCost App:** A web application for calculating time and fuel costs for travel. Built with Next.js, TypeScript, and styled to be cute and user-friendly.
-- **Car Comparison App:** Developed with DroidScript, this app allows users to compare cars based on their power-to-weight ratio and rate them.
-
-## Contact
-
-- **Email:** [jay.scm@example.com](mailto:jay.scm@example.com)
-- **LinkedIn:** [Jay SCM](https://www.linkedin.com/in/jay-scm)
-- **Website:** [Jay SCM Portfolio](https://jay-scm-portfolio.com)
-
-Feel free to explore my repositories and reach out if you have any questions or collaborations in mind!
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
